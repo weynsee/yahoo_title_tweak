@@ -1,0 +1,3 @@
+The Yahoo! Mail welcome page does not automatically display the number of
+unread mails in its titlebar. This greasemonkey script will automatically look for unread
+mails in all your e-mail folders and append the sum to the titlebar.
